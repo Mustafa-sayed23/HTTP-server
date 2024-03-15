@@ -1,5 +1,5 @@
 # HTTP-server
-## a simple HTTP server that gets network page request then response with the needed page.
+## a simple HTTP server that gets clients requests then response with the needed page.
 
 ### Running Steps:
 #### 1) Run the server (program)
