@@ -1,0 +1,53 @@
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\Template\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+C:\Users\dell\Downloads\Project_materials\Networks Project Template\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\dell\Downloads\Project_materials\Networks Project Template\Template[2021-2022]\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\dell\Downloads\Project_materials\Networks Project Template\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.AssemblyReference.cache
+C:\Users\dell\Downloads\Project_materials\Networks Project Template\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Users\dell\Downloads\Project_materials\Networks Project Template\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\dell\Downloads\Project_materials\Networks Project Template\Template[2021-2022]\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+C:\Users\dell\Desktop\abanoub\HTTPServer\obj\x86\Debug\HTTPServer.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\abanoub\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\abanoub\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\abanoub\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+C:\Users\dell\Desktop\abanoub\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\dell\Desktop\abanoub\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\Abanoub\Desktop\abanoub11\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\Abanoub\Desktop\abanoub11\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\Abanoub\Desktop\abanoub11\HTTPServer\obj\x86\Debug\HTTPServer.csprojAssemblyReference.cache
+C:\Users\Abanoub\Desktop\abanoub11\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Users\Abanoub\Desktop\abanoub11\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\Abanoub\Desktop\abanoub11\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+C:\Users\Abanoub\Desktop\abanoub\abanoub11\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\Abanoub\Desktop\abanoub\abanoub11\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\Abanoub\Desktop\abanoub\abanoub11\HTTPServer\obj\x86\Debug\HTTPServer.csprojAssemblyReference.cache
+C:\Users\Abanoub\Desktop\abanoub\abanoub11\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Users\Abanoub\Desktop\abanoub\abanoub11\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\Abanoub\Desktop\abanoub\abanoub11\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+C:\Users\Abanoub\Desktop\Network\abanoub11\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\Abanoub\Desktop\Network\abanoub11\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\Abanoub\Desktop\Network\abanoub11\HTTPServer\obj\x86\Debug\HTTPServer.csprojAssemblyReference.cache
+C:\Users\Abanoub\Desktop\Network\abanoub11\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Users\Abanoub\Desktop\Network\abanoub11\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\Abanoub\Desktop\Network\abanoub11\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+C:\Users\Abanoub\Desktop\Network\HTTPServer\bin\Debug\HTTPServer.exe
+C:\Users\Abanoub\Desktop\Network\HTTPServer\bin\Debug\HTTPServer.pdb
+C:\Users\Abanoub\Desktop\Network\HTTPServer\obj\x86\Debug\HTTPServer.csprojAssemblyReference.cache
+C:\Users\Abanoub\Desktop\Network\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Users\Abanoub\Desktop\Network\HTTPServer\obj\x86\Debug\HTTPServer.exe
+C:\Users\Abanoub\Desktop\Network\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+Q:\Networks Project Template\Network\HTTPServer\bin\Debug\HTTPServer.exe
+Q:\Networks Project Template\Network\HTTPServer\bin\Debug\HTTPServer.pdb
+Q:\Networks Project Template\Network\HTTPServer\obj\x86\Debug\HTTPServer.csproj.AssemblyReference.cache
+Q:\Networks Project Template\Network\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+Q:\Networks Project Template\Network\HTTPServer\obj\x86\Debug\HTTPServer.exe
+Q:\Networks Project Template\Network\HTTPServer\obj\x86\Debug\HTTPServer.pdb
+E:\Collage projects\HTTP Server\HTTPServer\bin\Debug\HTTPServer.exe.config
+E:\Collage projects\HTTP Server\HTTPServer\bin\Debug\HTTPServer.exe
+E:\Collage projects\HTTP Server\HTTPServer\bin\Debug\HTTPServer.pdb
+E:\Collage projects\HTTP Server\HTTPServer\obj\x86\Debug\HTTPServer.csproj.AssemblyReference.cache
+E:\Collage projects\HTTP Server\HTTPServer\obj\x86\Debug\HTTPServer.csproj.CoreCompileInputs.cache
+E:\Collage projects\HTTP Server\HTTPServer\obj\x86\Debug\HTTPServer.exe
+E:\Collage projects\HTTP Server\HTTPServer\obj\x86\Debug\HTTPServer.pdb
